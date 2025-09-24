@@ -35,7 +35,7 @@ To run a local copy of this project, follow these steps:
 
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/palakagrawal006/currency-converter.git](https://github.com/palakagrawal006/currency-converter.git)
+    git clone https://github.com/palakagrawal006/currency-converter.git
     ```
 2.  Navigate to the project directory:
     ```sh
